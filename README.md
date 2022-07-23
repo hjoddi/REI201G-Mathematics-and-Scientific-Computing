@@ -1,4 +1,4 @@
-# REI201G-python-projects
+# REI201G: Mathematics and Scientific Computing
 
 A sample of projects for class REI201G.
 
