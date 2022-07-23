@@ -1,2 +1,5 @@
 # REI201G-python-projects
-Projects for class REI201G
+A sample of projects for class REI201G.
+The class revolves around working with data using python.
+Instructor: Kristján Jónasson
+
